@@ -134,29 +134,3 @@ Any additions, updates, or deletions made in the application are automatically p
 | **Delete** | `DELETE` | `http://localhost:3000/students/:id` | Deletes a student record by ID |
 
 ---
-
-## 9. Screenshots Placeholder
-
-> *Add screenshots of the following pages here for your project report:*
-> - **Dashboard Overview**: Metrics cards and recent students
-> - **Student Directory (Desktop)**: Data table with active search and filter
-> - **Student Directory (Mobile)**: Clean student card list
-> - **Add / Edit Modal**: Form inputs with validation error messages
-> - **Delete Confirmation Modal & Toast**: In-app delete dialog and success toast
-
----
-
-## 10. Future Improvements
-
-- Pagination for large datasets with hundreds of students.
-- Export student data to CSV/Excel format.
-- Dark mode support for low-light environments.
-- Role-based access control (Admin vs. Faculty viewer).
-
----
-
-## 11. Author
-
-- **Student Name**: College Project Developer
-- **Course**: Computer Applications / Computer Science & Engineering
-- **Academic Session**: 2025–2026
