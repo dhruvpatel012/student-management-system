@@ -3,8 +3,9 @@
 A clean, modern, and easy-to-understand Student Management System built using React.js, Tailwind CSS, and JSON Server. Developed as a college-level academic project to demonstrate core React concepts, RESTful CRUD operations with the native `fetch()` API, client-side search and filtering, non-intrusive Toast notifications, and a dedicated mobile SaaS card layout.
 
 ---
+## Project Demo
 
- Video Explanation : https://drive.google.com/file/d/1XM3Z0PR1lfz_S4bqBQH-I7m5OzbZl42x/view?usp=sharing
+[ Watch Student Management System Demo](https://drive.google.com/file/d/1XM3Z0PR1lfz_S4bqBQH-I7m5OzbZl42x/view?usp=sharing)
 
 ## 1. Project Overview
 
