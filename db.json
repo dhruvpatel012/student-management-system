@@ -45,5 +45,6 @@
       "status": "Active",
       "id": "vuN-x4YN-x8"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

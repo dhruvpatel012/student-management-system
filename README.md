@@ -4,6 +4,8 @@ A clean, modern, and easy-to-understand Student Management System built using Re
 
 ---
 
+# Video Explanation : https://drive.google.com/file/d/1XM3Z0PR1lfz_S4bqBQH-I7m5OzbZl42x/view?usp=sharing
+
 ## 1. Project Overview
 
 The **Student Management System** is a single-page web application designed for academic departments to manage student records efficiently. It allows college administrators to:

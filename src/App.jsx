@@ -10,7 +10,7 @@ import Toast from './components/Toast';
 // API base endpoint for JSON Server
 const API_URL = 'http://localhost:3000/students';
 
-// Main App container managing data fetching, CRUD operations, Toast feedback, and responsive layout
+// Main App container managing data
 function App() {
   // Navigation state: 'dashboard' or 'students'
   const [currentPage, setCurrentPage] = useState('dashboard');
